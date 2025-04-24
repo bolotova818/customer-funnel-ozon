@@ -15,7 +15,7 @@
 
 График ниже показывает, как распределены клиенты по количеству заказов:
 
-![orders_funnel](img/orders_funnel_right_labels.png)
+![orders_funnel](img/orders_funnel.png)
 
 ## Что видно на графике
 
